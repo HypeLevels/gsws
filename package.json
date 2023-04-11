@@ -1,0 +1,7 @@
+{
+  "name": "gsws",
+  "packageManager": "yarn@3.5.0",
+  "dependencies": {
+    "ws": "^8.13.0"
+  }
+}
